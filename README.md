@@ -4,16 +4,25 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Equipments Required:
  1.Hardware – PCs
- 2.Anaconda – Python 3.7 Installation / Jupyter notebook
- 3.Algorithm
- 4.import the required libraries.
- 5.Upload and read the dataset.
- 6.Check for any null values using the isnull() function.
- 7.From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
- 8.Find the accuracy of the model and predict the required values by importing the required module from sklearn.
+
+2.Anaconda – Python 3.7 Installation / Jupyter notebook
+
+3.Algorithm
+
+4.import the required libraries.
+
+5.Upload and read the dataset.
+
+6.Check for any null values using the isnull() function.
+
+7.From sklearn.tree import DecisionTreeClassifier and use criterion as entropy.
+
+8.Find the accuracy of the model and predict the required values by importing the required module from sklearn.
 ## Program:
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
+
 Developed by: NARENDRAN B 
+
 RegisterNumber:  212222240069
 ```
 import pandas as pd
