@@ -61,21 +61,8 @@ accuracy
 dt.predict([[0.5, 0.8, 9, 260, 6, 0, 1, 2]])
 ```
 ## Output:
-## data.head()
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/23683ccc-de8e-43a9-921a-0fed0d198512)
-## data.info()
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/18c09de5-9bb4-4312-b8d1-3a7b070fd7c7)
-## isnull() and sum()
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/d8c95f23-47d5-43db-88f9-de7b17c0667a)
-## data value counts()
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/07fc6a78-40eb-40ef-978f-17a0381b7b4a)
-## data.head() for salary
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/506651dc-1ebf-4518-8142-c2ff46e9810d)
-## x.head()
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/ce5be054-8020-4e22-9e29-a6c809a348f9)
-## accuracy value
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/af66b379-71a3-465b-b148-0c38f9685e78)
-## data prediction
-![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/34e73a94-8769-4aae-a818-d3a01caa80de)
+![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/ade36902-1700-410e-8060-8f5e4f5ecdc3)
+![image](https://github.com/naren2704/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118706984/75f029a3-e47f-472d-b4bd-5afd1cd857e9)
+
 ## Result:
 Thus the program to implement the Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
